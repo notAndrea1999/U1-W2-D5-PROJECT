@@ -56,7 +56,7 @@ const cars = [
 ];
 
 for (let i = 0; i < cars.length; i++) {
-  cars[i].licensePlate = "ABC";
+  cars[i].licensePlate = "GG598FJ";
 }
 console.log(cars);
 
