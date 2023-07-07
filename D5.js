@@ -70,7 +70,7 @@ const car4 = {
   model: "Urus",
   color: "green",
   trims: ["GT", "titanium"],
-  licensePlate: "ABC",
+  licensePlate: "GG852FL",
 };
 
 cars.push(car4);
